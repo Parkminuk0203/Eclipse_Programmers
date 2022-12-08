@@ -12,6 +12,7 @@ public class 배열_두_배_만들기 {
 		}
 		System.out.println(Arrays.toString(arr));
 		System.out.println(Arrays.toString(arr2));
+		
 	} // end of main
 	
 } // end of class
